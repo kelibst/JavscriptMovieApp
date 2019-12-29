@@ -1,0 +1,22 @@
+{
+  "name": "movie_app",
+  "version": "1.0.0",
+  "description": "just a movie app",
+  "main": "index.js",
+  "scripts": {
+    "sass:compile": "node-sass sass/main.scss css/style.css" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelibst/JavscriptMovieApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelibst/JavscriptMovieApp/issues"
+  },
+  "homepage": "https://github.com/kelibst/JavscriptMovieApp#readme",
+  "devDependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
