@@ -3,6 +3,7 @@
 A javascript movies search app
 
 
+
 3. double click on index.html to enjoy :)
 
 
